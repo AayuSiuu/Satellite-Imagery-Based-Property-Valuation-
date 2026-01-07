@@ -80,13 +80,13 @@ An example Grad-CAM visualization is included in the repository (`output.png`).
    ```bash
    python inference.py
 
-3. Output is predictions.csv
+3. Output is 24115004_final.csv
 
 ---
 
 ## 📊 Output
 
-- `predictions.csv` containing predicted property prices
+- `24115004_final.csv` containing predicted property prices
 - Predictions are generated **only for properties with both tabular data and satellite imagery**
 - The model uses **true multimodal fusion** during inference
 
