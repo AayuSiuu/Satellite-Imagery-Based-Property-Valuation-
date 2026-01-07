@@ -110,3 +110,7 @@ By capturing neighborhood context and visual cues that are otherwise challenging
 
 ## Author:
  AAYUSHI SINHA (IIT-Roorkee)
+ ## 📄 Project Report
+
+The detailed project report is available here:  
+👉 [Download the full report (PDF)](24115004_report.pdf)
